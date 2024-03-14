@@ -47,7 +47,7 @@ public class GestionUsuarios {
             return null;
         }
     }
-
+//herramienta de creacion de un salt que irá junto con la contraseña
     public static String salt() {
         StringBuilder r = new StringBuilder();
         for (int k = 0; k < 15; k++) {
