@@ -1,9 +1,5 @@
 package MiTresEnRaya;
 import java.util.Scanner;
-import java.io.InputStream;
-import java.io.OutputStream;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
 
 public class Main {
     public static void main(String[] args) {
